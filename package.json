@@ -1,0 +1,26 @@
+{
+  "name": "ts-seminar-dts",
+  "version": "1.0.0",
+  "description": "d.ts skill-up",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "watch": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "os-locale": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.12",
+    "@types/os-locale": "^1.4.29",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-sourcemaps": "^2.5.1",
+    "gulp-tslint": "^7.1.0",
+    "gulp-typescript": "^3.1.6",
+    "tslint": "^5.0.0",
+    "typescript": "^2.2.2"
+  }
+}
